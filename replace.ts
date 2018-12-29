@@ -1,3 +1,5 @@
-const noSpace = (x:string):string => {
-    return x.replace(/\s/g, '');
-};
+const noSpace = (x: string): string => {
+  return x.replace(/\s/g, '')
+}
+
+export {}

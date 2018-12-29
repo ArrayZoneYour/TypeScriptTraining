@@ -1,0 +1,23 @@
+{
+  "name": "TypeScriptTraining",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArrayZoneYour/TypeScriptTraining.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArrayZoneYour/TypeScriptTraining/issues"
+  },
+  "homepage": "https://github.com/ArrayZoneYour/TypeScriptTraining#readme",
+  "dependencies": {
+    "ramda": "^0.26.1"
+  }
+}
