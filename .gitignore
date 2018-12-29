@@ -2,3 +2,4 @@
 *.js.map
 *.xml
 .idea/
+node_modules/
